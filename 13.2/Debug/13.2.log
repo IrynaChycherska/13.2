@@ -1,0 +1,9 @@
+﻿  Source.cpp
+D:\1 курс\АП\13.2\13.2\Source.cpp(11,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\1 курс\АП\13.2\13.2\Source.cpp(14,3): warning C4101: 'a': unreferenced local variable
+D:\1 курс\АП\13.2\13.2\Source.cpp(15,3): warning C4101: 'max': unreferenced local variable
+D:\1 курс\АП\13.2\13.2\Source.cpp(14,12): warning C4101: 'k': unreferenced local variable
+D:\1 курс\АП\13.2\13.2\Source.cpp(14,6): warning C4101: 'b': unreferenced local variable
+D:\1 курс\АП\13.2\13.2\Source.cpp(16,3): warning C4101: 'min': unreferenced local variable
+D:\1 курс\АП\13.2\13.2\Source.cpp(14,9): warning C4101: 'c': unreferenced local variable
+  13.2.vcxproj -> D:\1 курс\АП\13.2\Debug\13.2.exe
